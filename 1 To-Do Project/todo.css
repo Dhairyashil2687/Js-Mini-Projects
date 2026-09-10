@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+.container{
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+.heading{
+    font-family: sans-serif;
+    color: rgb(81, 77, 77);
+    font-size: 4rem;
+
+    font-weight: lighter;
+}
+#pendingCount{
+    font-family: sans-serif;
+    color: rgb(251, 75, 75);
+
+    font-weight: bolder;
+}
+#inputBox{
+    padding: 1rem;
+    width: 30rem;
+    border-radius: 5px;
+    border: 1px solid gray;
+    font-size: 1.4rem;
+}
+#addButton{
+    padding: 1rem;
+    background-color: rgb(74, 93, 205);
+    border-radius: 5px;
+    width: 8rem;
+    border: 1px solid gray;
+    color: white;
+    cursor: pointer;
+    font-size: 1.4rem;
+}
+#addButton:hover{
+    background-color: rgb(32, 67, 185);
+}
+.delButton{
+    padding: 0.5rem;
+    border: 1px solid gray;
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(91, 90, 90);
+    cursor: pointer;
+    font-size: 1.2rem;
+}
+.delButton:hover {
+  background-color: rgb(58, 57, 57);
+}
+
+
+.showBar{
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(2,1fr);
+    gap: 2rem;
+}
+.taskName{
+    font-size: 2rem;
+    font-family: sans-serif;
+    color: rgb(100, 98, 98);
+}
