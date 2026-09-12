@@ -39,3 +39,20 @@ A multiple-choice quiz game about India’s national symbols.
 - Shuffle options
 - Restart button
 - Timer per question
+
+---
+
+## 3. Weather App
+A simple weather application using OpenWeather API.
+
+### ✨ Features
+- Search weather by city name
+- Shows temperature and weather description
+
+### 🚀 How to Run
+1. Go to folder 3 Weather App
+2. Open index.html in browser
+
+### 📌 Future Improvements
+- Better UI with animations
+
