@@ -5,11 +5,6 @@ A collection of simple JavaScript projects created for learning and practice.
 
 ---
 
-(https://github.io)
-(https://github.io)
-(https://github.io)
----
-
 ## 1. To-Do Project
 A simple JavaScript To-Do application.
 
