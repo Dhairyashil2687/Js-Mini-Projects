@@ -4,13 +4,9 @@ A collection of simple JavaScript projects created for learning and practice.
 
 ## 🚀 Live Projects
 
-Here are the live links to test each application directly in your browser:
-
 * 📝 [To-Do Project](https://github.io)
 * 🧠 [Quiz Game](https://github.io)
 * ☀️ [Weather Report](https://github.io)
-*
-
 ---
 
 ## 1. To-Do Project
