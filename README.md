@@ -8,6 +8,7 @@ Live links for all mini projects
 * 📝 [To-Do Project](https://dhairyashil2687.github.io/Js-Mini-Projects/1%20To-Do%20Project/)
 * 🧠 [Quiz Game](https://dhairyashil2687.github.io/Js-Mini-Projects/2%20Quiz%20Game/)
 * ☀️ [Weather Report](https://dhairyashil2687.github.io/Js-Mini-Projects/3%20Weather%20Report/)
+* 📒 [Notes App](https://dhairyashil2687.github.io/Js-Mini-Projects/4%20Notes%20App/)
 ---
 
 ## 1. To-Do Project
@@ -56,9 +57,28 @@ A simple weather application using OpenWeather API.
 - Shows temperature and weather description
 
 ### 🚀 How to Run
-1. Go to folder 3 Weather App
-2. Open index.html in browser
+1. Go to folder `3 Weather App`
+2. Open `index.html` in browser
 
 ### 📌 Future Improvements
 - Better UI with animations
 
+---
+
+## 4. Notes App
+A simple notes application with LocalStorage support.
+
+### ✨ Features
+- Add new notes
+- Auto-save notes in LocalStorage
+- Double-click to delete a note
+- Notes persist even after page refresh
+
+### 🚀 How to Run
+1. Go to folder `4 Notes App`
+2. Open `index.html` in browser
+
+### 📌 Future Improvements
+- Color-coded notes
+- Edit functionality
+- Better UI styling
