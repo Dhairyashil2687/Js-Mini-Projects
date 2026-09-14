@@ -3,6 +3,8 @@
 A collection of simple JavaScript projects created for learning and practice.
 
 ---
+Live links for all mini projects
+
 * 📝 [To-Do Project](https://dhairyashil2687.github.io/Js-Mini-Projects/1%20To-Do%20Project/)
 * 🧠 [Quiz Game](https://dhairyashil2687.github.io/Js-Mini-Projects/2%20Quiz%20Game/)
 * ☀️ [Weather Report](https://dhairyashil2687.github.io/Js-Mini-Projects/3%20Weather%20Report/)
