@@ -2,7 +2,10 @@
 
 A collection of simple JavaScript projects created for learning and practice.
 
-
+---
+* 📝 [To-Do Project](https://dhairyashil2687.github.iio/Js-Mini-Projects/1 To-Do Project/)
+* 🧠 [Quiz Game](https://dhairyashil2687.github.iio/Js-Mini-Projects/2 Quiz Game/)
+* ☀️ [Weather Report](https://dhairyashil2687.github.iio/Js-Mini-Projects/3 Weather Report/)
 ---
 
 ## 1. To-Do Project
