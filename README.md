@@ -2,6 +2,12 @@
 
 A collection of simple JavaScript projects created for learning and practice.
 
+
+## 🚀 Live Projects
+- [To‑Do App](https://Dhairyashil2687.github.io/Js-Mini-Projects/)
+- [Quiz Game](https://Dhairyashil2687.github.io/Js-Mini-Projects/quiz.html)
+- [Weather Report](https://Dhairyashil2687.github.io/Js-Mini-Projects/weather.html)
+
 ---
 
 ## 1. To-Do Project
