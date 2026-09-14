@@ -2,11 +2,6 @@
 
 A collection of simple JavaScript projects created for learning and practice.
 
-## 🚀 Live Projects
-
-* 📝 [To-Do Project](https://github.io)
-* 🧠 [Quiz Game](https://github.io)
-* ☀️ [Weather Report](https://github.io)
 ---
 
 ## 1. To-Do Project
