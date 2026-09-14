@@ -3,9 +3,9 @@
 A collection of simple JavaScript projects created for learning and practice.
 
 ---
-* 📝 [To-Do Project](https://dhairyashil2687.github.iio/Js-Mini-Projects/1%20To-Do%20Project/)
-* 🧠 [Quiz Game](https://dhairyashil2687.github.iio/Js-Mini-Projects/2%20Quiz%20Game/)
-* ☀️ [Weather Report](https://dhairyashil2687.github.iio/Js-Mini-Projects/3%20Weather%20Report/)
+* 📝 [To-Do Project](https://dhairyashil2687.github.io/Js-Mini-Projects/1%20To-Do%20Project/)
+* 🧠 [Quiz Game](https://dhairyashil2687.github.io/Js-Mini-Projects/2%20Quiz%20Game/)
+* ☀️ [Weather Report](https://dhairyashil2687.github.io/Js-Mini-Projects/3%20Weather%20Report/)
 ---
 
 ## 1. To-Do Project
