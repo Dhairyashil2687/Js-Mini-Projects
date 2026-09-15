@@ -8,8 +8,11 @@ function createNote(content = "") {
     note.value = content;
 
     note.addEventListener('dblclick', () => {
-        note.remove();
-        saveNotes();
+        const cd = confirm("Are you Sure want to Delete ?");
+        if(cd){
+            note.remove();
+            saveNotes();
+        }
     });
     note.addEventListener('input', saveNotes);
 
