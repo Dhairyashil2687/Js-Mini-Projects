@@ -9,6 +9,8 @@ Live links for all mini projects
 * 🧠 [Quiz Game](https://dhairyashil2687.github.io/Js-Mini-Projects/2%20Quiz%20Game/)
 * ☀️ [Weather Report](https://dhairyashil2687.github.io/Js-Mini-Projects/3%20Weather%20Report/)
 * 📒 [Notes App](https://dhairyashil2687.github.io/Js-Mini-Projects/4%20Notes%20App/)
+* 💰 [Expense Tracker](https://dhairyashil2687.github.io/Js-Mini-Projects/5%20Expense%20Tracker/)
+
 ---
 
 ## 1. To-Do Project
@@ -18,13 +20,6 @@ A simple JavaScript To-Do application.
 - Add/Delete tasks
 - Pending task counter
 - Strike-through for completed tasks
-
-### 🚀 How to Run
-1. Go to folder `1 To-Do Project`
-2. Open `todo.html` in browser
-
-### 📌 Future Improvements
-- LocalStorage support
 
 ---
 
@@ -37,10 +32,6 @@ A multiple-choice quiz game about India’s national symbols.
 - Next button navigation
 - Score counter
 - Progress tracker (“Question X of Y”)
-
-### 🚀 How to Run
-1. Go to folder `2 Quiz Game`
-2. Open `quiz.html` in browser
 
 ### 📌 Future Improvements
 - Shuffle options
@@ -56,13 +47,6 @@ A simple weather application using OpenWeather API.
 - Search weather by city name
 - Shows temperature and weather description
 
-### 🚀 How to Run
-1. Go to folder `3 Weather App`
-2. Open `index.html` in browser
-
-### 📌 Future Improvements
-- Better UI with animations
-
 ---
 
 ## 4. Notes App
@@ -74,11 +58,13 @@ A simple notes application with LocalStorage support.
 - Double-click to delete a note
 - Notes persist even after page refresh
 
-### 🚀 How to Run
-1. Go to folder `4 Notes App`
-2. Open `index.html` in browser
+---
 
-### 📌 Future Improvements
-- Color-coded notes
-- Edit functionality
-- Better UI styling
+## 5. Expense Tracker
+A simple expense tracking application with LocalStorage support.
+
+### ✨ Features
+- Add/Delete expenses
+- Shows total expenses dynamically
+- LocalStorage persistence (data stays after refresh)
+- Input validation (no empty or invalid amounts)
