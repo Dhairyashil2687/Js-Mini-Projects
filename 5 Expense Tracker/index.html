@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Expense Tracker</h1>
+        <hr>
+        <p>Manage your daily expenses</p>
+    </header>
+
+    <main>
+
+        <div class="inputSection">
+            <input id="expenseName" type="text" placeholder="Expense Name">
+            <input id="expenseAmount" type="text" placeholder="Amount (₹)">
+            <button id="addButton">Add</button>
+        </div>
+
+        <div class="visibleSection">
+
+            <h2 >Your Expenses</h2>
+
+            <div class="bar">
+                <span>Expense</span>
+                <span>Amount</span>
+                <span>Action</span>
+            </div>
+
+            <div class="expenseList">
+
+                <!-- <div class="listItem">
+                    <span>Groceries</span> <span>₹500</span> <button class="delButton">Delete</button>
+                </div> -->
+
+            </div>
+
+        </div>
+
+    </main>
+
+    <hr id="line">
+
+    <footer>
+        <div class="summary">
+            <span>Total Expenses : </span>
+            <span id="finalAmount">₹0</span>
+        </div>
+    </footer>
+
+
+<script src="script.js"></script>
+</body>
+</html>

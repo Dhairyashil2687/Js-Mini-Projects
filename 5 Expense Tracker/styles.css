@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:white;
+}
+
+header{
+    text-align: center;
+    /* margin: 2rem; */
+    background-color: rgb(21, 93, 161);
+    padding: 2rem;
+    padding-bottom: 0.4rem;
+    color: white;
+    font-family: sans-serif;
+}
+header h1{
+    margin: 1rem;
+    letter-spacing: 0.3rem;
+
+}
+header p{
+    margin: 1rem;
+    margin-bottom: none;
+    color: rgb(199, 210, 217);
+    font-size: 13px;
+
+}
+main{
+    text-align: center;
+
+}
+#expenseName , #expenseAmount{
+    padding: 5px 10px;
+    width: 150px;
+    border-radius: 5px;
+    border: none;
+    margin: 1rem;
+    border: 1px solid gray;
+    height: 35px;
+
+}
+#addButton{
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(47, 188, 32);
+    color: white;
+    cursor: pointer;
+    height: 40px;
+    width: 60px;
+    font-size: 1rem;
+
+}
+#addButton:hover{
+    background-color: green;
+
+}
+.inputSection{
+    background-color: rgb(248, 248, 248);
+    margin: 1rem;
+    border-radius: 10px;
+    padding: 0.4rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.visibleSection{
+    background-color: white;
+    padding: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+.visibleSection h2{
+    text-align: start;
+    /* margin-left: 1rem; */
+    padding: 0.3rem;
+    font-family: sans-serif;
+    color: rgb(97, 94, 94);
+    font-size: 1.2rem;
+
+}
+.bar{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    column-gap: 2rem;
+
+    background-color: rgb(240, 239, 239);
+    margin: 1rem;
+    font-size: 1.2rem;
+    padding: 1rem;
+    color: rgb(78, 76, 76);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.listItem{
+    background-color: rgb(240, 240, 239);
+    /* min-height: 180px; */
+    margin: 0.7rem 1rem;
+    display:grid;
+    align-items: center;
+    grid-template-columns: repeat(3,1fr);
+    gap:2rem;
+    padding: 0.5rem 0 ;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border: 2px solid rgb(166, 165, 165);
+    border-radius: 7px;
+
+}
+
+.delButton{
+    background-color: rgb(254, 16, 16);
+    color: white;
+    border: none;
+    border-radius: 5px;
+
+    font-size: 1rem;
+    padding: 10px 15px;
+    width: 100px;
+
+    cursor: pointer;
+}
+#delButton:hover{
+    background-color: rgb(233, 0, 0);
+}
+#line{
+    margin:2rem;
+
+}
+
+.summary{
+    background-color: rgb(196, 219, 239);
+    padding: 1rem;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 8rem;
+    font-size: 1.5rem;
+    font-weight: 900;
+    color: rgb(7, 66, 7);
+
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-bottom: 3rem;
+    border: 5px solid rgba(197, 197, 250, 0.603);
+
+}
