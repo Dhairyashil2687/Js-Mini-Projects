@@ -10,6 +10,7 @@ Live links for all mini projects
 * ☀️ [Weather Report](https://dhairyashil2687.github.io/Js-Mini-Projects/3%20Weather%20Report/)
 * 📒 [Notes App](https://dhairyashil2687.github.io/Js-Mini-Projects/4%20Notes%20App/)
 * 💰 [Expense Tracker](https://dhairyashil2687.github.io/Js-Mini-Projects/5%20Expense%20Tracker/)
+* 🎂 [Age Calculator](https://dhairyashil2687.github.io/Js-Mini-Projects/6%20Age%20Calculator/)
 
 ---
 
@@ -68,3 +69,13 @@ A simple expense tracking application with LocalStorage support.
 - Shows total expenses dynamically
 - LocalStorage persistence (data stays after refresh)
 - Input validation (no empty or invalid amounts)
+
+---
+
+## 6. Age Calculator
+A fun age calculator with motivational remarks.
+
+### ✨ Features
+- Enter DOB and calculate exact age (Years, Months, Days)
+- Motivational remark based on age group
+- LocalStorage not required (instant calculation)
