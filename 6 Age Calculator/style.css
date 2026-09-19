@@ -1,0 +1,82 @@
+body {
+  background-image: url("background.jpg"); /* path to your image */
+  background-size: cover;       /* scales image to fill the element */
+  background-position: center;  /* centers the image */
+  background-repeat: no-repeat; /* prevents tiling */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  padding: 2rem;
+}
+
+.container {
+  background: #f1ecf1b5;
+  padding: 2rem 2rem;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+  text-align: center;
+  animation: fadeIn 1s ease-in-out;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+h1 {
+  font-family: cursive;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+p.tagline {
+  font-style: italic;
+  color: #4d4545;
+  margin-bottom: 1.5rem;
+}
+input{
+  padding: 0.5rem 1rem;
+  border-radius: 1rem;
+  border: gray 2px solid;
+
+}
+
+button {
+  font-family: cursive;
+  background: #74ebd580;
+  border: 2px solid white;
+  padding: 0.4rem 1rem;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: 0.5s ease-in-out;
+}
+
+button:hover {
+  background: #43928380;
+  color: #fff;
+}
+
+.result {
+  font-family: fantasy;
+  letter-spacing: 0.1rem;
+  margin-top: 1.5rem;
+  /* font-weight: bold; */
+  color: #333;
+  font-size: 1.5rem;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.remark{
+  font-size: 1.5rem;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-width: 600;
+  color:slategray;
+
+}
